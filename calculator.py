@@ -8,5 +8,5 @@ def subtract(a,b):
 def multiply(a,b):
 	return a*b
 
-def devide_premium(a,b):
+def divide_dollar_ver(a,b):
 	return a/b
